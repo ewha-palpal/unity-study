@@ -2,7 +2,13 @@
 
 ### AR 도서 개발을 위한 Unity, Vuforia 기술 검증
 
-#### 시연동영상 : https://youtu.be/F6BA6_Pv9PE
+#### 시연동영상
+    https://youtu.be/F6BA6_Pv9PE
+
+#### 기술블로그
+    - GOH SEUNGUI (고승의) : https://blog.naver.com/uiuiui629
+    - seohsj (서현주) : https://jujuu.tistory.com/
+    - Song sugyeong (송수경) : https://tnrud-e.tistory.com/
 
 #### 1. Image Target
     - Vuforia cofiguration에서 license와 DB 설정
